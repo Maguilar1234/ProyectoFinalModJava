@@ -17,4 +17,7 @@
 7. Manejo de errores
    Aprendimos a identificar a como y cuando podemos ir manejando errores y excepciones para solucionarlos
 8. Activity
-   Creamos un Activity 
+   Creamos un Activity de nuestros proyectos
+
+   # Enlace 
+   [Sesion 01](/app/src/main/java/com/example/practicas/practica001) 
