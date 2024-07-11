@@ -20,4 +20,4 @@
    Creamos un Activity de nuestros proyectos
 
    # Enlace 
-   [Sesion 01](/app/src/main/java/com/example/practicas/practica001) 
+   [Sesion 01](app/src/main/java/com/example/practicas/practica001) 
